@@ -1,7 +1,5 @@
 # TootFloot
 
 When holding an ocarina, use your keyboard to play it
-```
-   U I   P [
-G H J K L ; '
-```
+
+![image](https://github.com/ToyDragon/RepoMods/blob/main/keys.png?raw=true)
